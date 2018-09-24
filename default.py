@@ -115,7 +115,7 @@ class Main:
         else:
 
             # Add items
-            url = 'http://no.scenemusic.net:9000/necta.m3u'
+            url = 'http://necta.pedroja.tech/necta192.mp3'
             li = xbmcgui.ListItem(ADDON.getLocalizedString(30199), iconImage='DefaultAudio.png')
 
 

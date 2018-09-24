@@ -17,7 +17,7 @@
 		<source>https://github.com/vidarw/xbmc.plugin.audio.nectarine.git</source>
    		<summary lang="en">Nectarine Demoscene Radio</summary>
 		<description lang="en">
-			Stream the best of demoscene music from Nectarine Demoscene Radio (www.scenemusic.net) directly from XBMC using this fan-made plugin.
+			Stream the best of demoscene music from Nectarine Demoscene Radio (www.scenestream.net) directly from XBMC using this fan-made plugin.
 		</description>
 	</extension>
 </addon>
